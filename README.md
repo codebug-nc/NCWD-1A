@@ -38,7 +38,7 @@
 * Open `application.html` in Chrome to make sure your header worked!
 * Now let's add a "Link to Apply" that links to this `application.html` from your home page (`index.html`). You will need to use an `<a>` tag on the `index.html` page. It will look something like this: 
             
-            `<a href="application.html">Apply!</a>`
+            <a href="application.html">Apply!</a>
             
 * In `application.html`add a couple more HTML elements:
     * Add a paragraph tag that explains the purpose of this application.
